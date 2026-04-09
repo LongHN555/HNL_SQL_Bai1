@@ -26,6 +26,33 @@
    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/8eeed948-42e5-4104-a690-10611f2e72c4" />
 
 8. Import dữ liệu:
-   
+   <img width="959" height="537" alt="image" src="https://github.com/user-attachments/assets/ae8f4d7f-c3c3-4b6a-8402-f9adf085aab6" />
+
+9. Gõ lệnh kiểm tra dữ liệu:
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/931a5ca6-2d52-4d37-8216-6a8348c25d9d" />
+
+10. Thêm 1 dòng thông tin sinh viên làm bài:
+    <img width="959" height="538" alt="image" src="https://github.com/user-attachments/assets/48ac3cd6-6676-4929-9993-476dab0430b6" />
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/bf7dc1e5-cc6e-4151-b4b8-3f7e96e5ebf4" />
+
+11. Cập nhập trường noisinh thành 'Sao Hỏa':
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/dc5ebb74-a20a-4b5f-ac03-92ed33f12652" />
+
+12. Tạo bảng Sao Hỏa:
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/d920154f-df67-481c-b665-53b969948374" />
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/b7512ada-e5eb-43b3-8521-1f70b72afa12" />
+
+13. Xóa sinh viên cùng họ:
+    - Tìm sinh viên cùng họ:
+      <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/a0157012-333a-469b-98cb-7e5cb2a06fa8" />
+    - Xóa sinh viên cùng họ:
+      <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/49bebdb5-4c30-4e07-b520-1e4fae356154" />
+
+14. Xuất kết quả ra file
+
+
+
+
+
    
 
