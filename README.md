@@ -66,6 +66,7 @@
     <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/ba3038b9-b4b2-4ee0-aa0f-95ec346a7fd2" />
 
 17. Upload file dulieu.sql lên github
+  <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/f2e6d1bc-fa55-45a1-ad10-fef91acc6c0c" />
 
 
 
