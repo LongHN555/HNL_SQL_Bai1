@@ -26,9 +26,35 @@
    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/f067fc70-a285-4802-940c-2500c16acbf2" />
 
 8. Import dữ liệu:
-   <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/392a4a82-85ae-4b03-ac7d-f45a044eec0f" />
+  <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/17a8584a-3f56-4999-8e32-fce261253a4c" />
 
 9. Kiểm tra số dòng:
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/29476fd3-a1ed-4f74-878c-72f78478cbba" />
+
+10. Insert thông tin sinh viên
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/8f8991ea-bdf8-4dea-921c-c7804583f236" />
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/7e1f5c70-f2c6-488e-817f-6db7b1e056e8" />
+
+11. Cập nhập noisinh
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/9fa551c3-326d-4735-85f1-430429a73199" />
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/b1a5c000-27a5-4612-b520-f2ccc3923451" />
+
+12. Tạo bảng SaoHoa
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/4567230c-4a1a-4fbf-9d6a-6a14ce5b6418" />
+
+13. Xóa sinh viên cùng họ:
+  - Tìm sinh viên cùng họ:
+      <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/52a65390-bc25-4ccf-9cc3-86ba039e8dc1" />
+  - Xóa sinh viên cùng họ:
+    
+
+
+
+  
+
+
+
+
     
 
 
