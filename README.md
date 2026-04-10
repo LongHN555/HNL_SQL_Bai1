@@ -46,27 +46,26 @@
   - Tìm sinh viên cùng họ:
       <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/52a65390-bc25-4ccf-9cc3-86ba039e8dc1" />
   - Xóa sinh viên cùng họ:
-    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/b4ed2a13-f229-46e4-839e-b11ee8dd91e8" />
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/30402f6b-0c00-4339-ad88-7d58f42d9e07" />
 
 14. Xuất kết quả ra file dulieu.sql:
-    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/0870d9c7-9301-4eb1-8ac2-1e1e770e698a" />
-    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/980e84a2-d697-454a-8d3a-7c35f4b679d0" />
-    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/4a36aba2-8f3e-4892-9f68-87b445b33f71" />
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/bb0db527-ae0e-4187-abba-5b275bc161a2" />
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/49716a18-eed9-4e92-88f4-e44dc2d6fdc0" />
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/a417c7bc-ed52-4ec6-a74e-a61433ff71e4" />
 
-15. Xóa CSDL đã tạo:
-    - Bằng lệnh:
-      <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/d0065e67-c84f-48f8-9b4f-7cbc6d976d6a" />
-    - Bằng giao diện:
-      <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/6f948257-ed7f-4458-adbf-a54bee569962" />
-    - Kết quả:
-      <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/bda0ee18-3bd2-445b-b314-310f5d85e69e" />
+15. Xóa csdl đã tạo
+  - Xóa bằng lệnh:
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/c8fd72c8-4eed-480c-99b9-66d9cb85425e" />
+  - Xóa bằng giao diện:
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/36ab4c17-d4de-4b5a-8b2d-9dbb9cd5f146" />
+  - Kết quả:
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/353dc8c8-21e1-41a9-9bec-07bdc34e0b23" />
 
-16. Chạy lại lệnh bằng dulieu.sql:
-    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/6033b54b-e0e0-44d2-abf1-96fea398852c" />
-    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/ba3038b9-b4b2-4ee0-aa0f-95ec346a7fd2" />
+16. Tạo lại bằng file dulieu.sql:
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/1aa07852-f222-4efc-b923-f91066d08883" />
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/66432281-0b4d-496c-b938-f39de7405268" />
 
 17. Upload file dulieu.sql lên github
-  <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/f2e6d1bc-fa55-45a1-ad10-fef91acc6c0c" />
 
 
 
