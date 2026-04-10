@@ -67,7 +67,7 @@
    - Tạo lại thành công:
      <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/cf28fafe-ef57-4509-88f6-17ae6a5e26e6" />
 
-17. Upload file dulieu.sql len Github:
+17. Upload file dulieu.sql len Github
     <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/2eb2658a-81ed-4e03-8fa2-53def87ebde2" />
 
 
