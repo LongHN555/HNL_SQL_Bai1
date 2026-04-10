@@ -49,6 +49,35 @@
       <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/49bebdb5-4c30-4e07-b520-1e4fae356154" />
 
 14. Xuất kết quả ra file
+  <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/253578e8-57d2-427e-aa1b-ab59f474ad99" />
+  <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/a6efac00-070e-4776-a79f-cb1ee73449b7" />
+  <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/eb635dd8-9410-4e79-8f17-d22bd89805a9" />
+
+15. Xóa CSDL và kiểm tra lại path:
+    - Xóa bằng lệnh:
+      <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/6c896bd3-080a-49f8-aff4-b075aa5d62c0" />
+    - Bằng giao diện:
+      <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/199dd671-494d-405a-9177-c2d388880e21" />
+    - Đã xóa:
+      <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/3888dfbc-dfb3-4504-bf1c-6e7982d201a2" />
+
+16. Chạy lại
+    <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/22f0c2a9-dc20-466e-869d-c51112b583d2" />
+   <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/6e6b688d-f503-4b69-b5ae-963eed89a153" />
+   - Tạo lại thành công:
+     <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/cf28fafe-ef57-4509-88f6-17ae6a5e26e6" />
+
+17. Upload file dulieu.sql len Github:
+    
+
+
+
+
+
+
+
+
+
 
 
 
